@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">Diego</a></h1>
 <h3 align="center">An enthusiastic Java developer from Lima Peru 🇵🇪</h3>
-<img style="width: 100%"  src="https://i.postimg.cc/dVX9nxVX/Captura-de-pantalla-2024-05-15-005019.png" alt="banner">	
+<picture>
+  <source height=200 align="center"
+    srcset="https://i.postimg.cc/dVX9nxVX/Captura-de-pantalla-2024-05-15-005019.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source height=200 align="center"
+    srcset="https://i.postimg.cc/HL1VLpvb/ligth.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://i.postimg.cc/dVX9nxVX/Captura-de-pantalla-2024-05-15-005019.png" />
+</picture>
 
 ##   💫About Me:
 I'm a passionate developer with extensive experience in various technologies.
@@ -28,9 +38,7 @@ I'm a passionate developer with extensive experience in various technologies.
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass.svg" width="40" height="40" /> 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="Markdown-Dark.svg" width="40" height="40" /> 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash-Dark.svg" width="40" height="40" />  
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="Npm-Dark.svg" width="40" height="40" /> 
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino.svg" width="40" height="40" /> 
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" alt="jAutoCAD-Dark.svgava" width="40" height="40" />  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php-Dark.svg" width="40" height="40" /> 
 </p>
 </br>
 
