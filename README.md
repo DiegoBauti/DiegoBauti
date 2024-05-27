@@ -2,14 +2,14 @@
 <h3 align="center">An enthusiastic Java developer from Lima Peru 🇵🇪</h3>
 <picture>
   <source align="center"
-    srcset="https://i.postimg.cc/dVX9nxVX/Captura-de-pantalla-2024-05-15-005019.png"
+    srcset="https://i.postimg.cc/yY4vhRGR/dark.png"
     media="(prefers-color-scheme: dark)"
   />
   <source align="center"
     srcset="https://i.postimg.cc/HL1VLpvb/ligth.png"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://i.postimg.cc/dVX9nxVX/Captura-de-pantalla-2024-05-15-005019.png" />
+  <img src="https://i.postimg.cc/yY4vhRGR/dark.png" />
 </picture>
 
 ##   💫About Me:
